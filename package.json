@@ -1,0 +1,19 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "description": "this is bitcoin currency converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujrawatcode/currencyConverter.git"
+  },
+  "author": "Anuj Rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anujrawatcode/currencyConverter/issues"
+  },
+  "homepage": "https://github.com/anujrawatcode/currencyConverter#readme"
+}
